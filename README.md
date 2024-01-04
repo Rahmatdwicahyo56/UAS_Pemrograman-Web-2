@@ -10,6 +10,7 @@ Bisa diakses oleh Customer, Staff, Admin, Owner
 Customer bisa Register,atau bisa juga bisa login dengan username dibawah
 
 user:tes
+
 pass:qwe
 
 Untuk login staff/admin/owner
