@@ -16,15 +16,19 @@ Untuk login staff/admin/owner
 
 http://ip(localhost)/reshtel/admin
 
+Staff/ Karyawan
+
 user:staff
 
 pass:staff
+
+Admin
 
 user:admin
 
 pass:admin
 
-pimpinan:
+Pimpinan:
 
 user:owner
 
