@@ -8,7 +8,9 @@ Rahmat Dwi Cahyo
 
 Website ini dibuat untuk memenuhi UAS dari Ibu Utami Mizani Putri M.Kom selaku dosen pengampu Matakuliah Pemrograman Web 2
 
-Website ini Bertema Hotel/ Penginapan Berbasis Xampp/PHP 7
+Website ini Bertema Hotel/ Penginapan
+
+Berbasis Xampp/PHP 7
 
 Bisa diakses oleh Customer, Staff, Admin, Owner
 
